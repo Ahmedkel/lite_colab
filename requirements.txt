@@ -13,7 +13,7 @@ requests
 piexif
 Pillow
 #pytorch_lightning==1.7.7
-pytorch_lightning>=2.0.0
+pytorch_lightning
 realesrgan
 scikit-image>=0.19
 timm==0.4.12
@@ -31,7 +31,8 @@ kornia
 lark
 inflection
 GitPython
-torchsde
+#torchsde
+torchsde==0.2.6
 httpx==0.24.1
 safetensors
 psutil
